@@ -7,22 +7,24 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 ---
 
 ## 🚀 Mes Projets
+### 🔷 1. Prédiction de la Hauteur des Vagues (LSTM)
 
-### 🔷 1. Data Warehouse & OLAP  
-**Objectif :** modélisation multidimensionnelle, ETL, création de cubes OLAP, opérations (slice, dice, roll-up, drill-down).  
-📁 **Projet :** https://github.com/imadmedjerab/data-warehouse-olap
-
----
-
-### 🔷 2. Simulation d’une Ligne de Production (FlexSim)  
-**Objectif :** simuler une ligne avec 5 machines, opérateurs variables, zones de stockage, pannes et analyses TRS.  
-📁 **Projet :** https://github.com/imadmedjerab/simulation-production
+**Objectif :** prédire la hauteur significative des vagues à l'aide de LSTM et Transfer Learning, pour l'alerte au risque de noyade, le dessalement de l'eau de mer et l'aquaculture.
+📁 **Projet :** https://github.com/imadmedjerab/wave-height-prediction
 
 ---
 
-### 🔷 3. Data Mining — Règles d’Association  
+### 🔷 2. Data Mining — Règles d’Association  
 **Objectif :** Prévision et analyse du CO2 avec méthodes de machine learning et séries temporelles (ARIMA, LSTM, SARIMA, Transformer).  
 📁 **Projet :** https://github.com/imadmedjerab/data-mining-co2
+
+
+---
+
+
+### 🔷 3. Simulation d’une Ligne de Production (FlexSim)  
+**Objectif :** simuler une ligne avec 5 machines, opérateurs variables, zones de stockage, pannes et analyses TRS.  
+📁 **Projet :** https://github.com/imadmedjerab/simulation-production
 
 ---
 
@@ -33,10 +35,10 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 
 ---
 
-### 🔷 5. Prédiction de la Hauteur des Vagues (LSTM)
+### 🔷 5. Data Warehouse & OLAP  
+**Objectif :** modélisation multidimensionnelle, ETL, création de cubes OLAP, opérations (slice, dice, roll-up, drill-down).  
+📁 **Projet :** https://github.com/imadmedjerab/data-warehouse-olap
 
-**Objectif :** prédire la hauteur significative des vagues à l'aide de LSTM et Transfer Learning, pour l'alerte au risque de noyade, le dessalement de l'eau de mer et l'aquaculture.
-📁 **Projet :** https://github.com/imadmedjerab/wave-height-prediction
 ---
 
 ### 🔷 6. Machine Learning — Apprentissage Supervisé  
@@ -53,9 +55,15 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 [Télécharger PredictRegres.py.ipynb](https://github.com/imadmedjerab/imad.github/blob/main/PredictRegres.py.ipynb)
 ---
 ### 🔷 7. Active Learning  
-**Objectif :** réduire le coût d’annotation en choisissant intelligemment les données à labelliser.  
-**Stratégies :** uncertainty sampling, entropy sampling, margin sampling.  
-📁 **Projet :** https://github.com/imadmedjerab/active-learning
+**Dataset :** OIHACDB  
+**Tâches :**
+- Classification des caractères arabes isolés
+- Application de l’Active Learning (uncertainty sampling, entropy, margin…)
+- Comparaison des techniques AL
+- Analyse des performances
+  
+[Télécharger PROJET_MLA.ipynb](https://github.com/imadmedjerab/imad.github/blob/main/PROJET_MLA%20(1)%20(2).ipynb)
+
 ---
 
 ## 🛠️ Compétences Techniques
