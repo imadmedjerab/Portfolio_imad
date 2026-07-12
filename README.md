@@ -10,7 +10,7 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 
 ### 🔷 1. Data Warehouse & OLAP  
 **Objectif :** modélisation multidimensionnelle, ETL, création de cubes OLAP, opérations (slice, dice, roll-up, drill-down).  
-📁 **Projet :** https://github.com/imadmedjerab/OLAP
+📁 **Projet :** https://github.com/imadmedjerab/data-warehouse-olap
 
 ---
 
