@@ -65,6 +65,20 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 [Télécharger PROJET_MLA.ipynb](https://github.com/imadmedjerab/imad.github/blob/main/PROJET_MLA%20(1)%20(2).ipynb)
 
 ---
+### 🔷 8. Apprentissage Fédéré — Reconnaissance de Caractères Arabes Manuscrits
+
+**Dataset :** Caractères arabes manuscrits isolés (features numériques extraites et normalisées)
+**Tâches :**
+- Implémentation d'un framework d'apprentissage fédéré (Federated Averaging - FedAvg)
+- Comparaison d'un modèle simple (fully-connected) et d'un modèle profond
+- Simulation multi-clients avec distribution IID des données
+- Analyse comparative des courbes de loss et d'accuracy sur 50 rounds
+
+📁 **Projet :** https://github.com/imadmedjerab/Apprentissage-F-d-r-
+
+
+---
+
 
 ## 🛠️ Compétences Techniques
 
