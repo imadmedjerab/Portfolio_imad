@@ -29,7 +29,7 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 ### 🔷 4. Pipeline OCR pour Factures (ZIP → PDF → Image → Texte → JSON)  
 **Tech :** Tesseract, OpenCV, Spark NLP, Regex  
 **Étapes :** extraction ZIP, prétraitement, OCR, parsing, export CSV/JSON.  
-📁 **Projet :** https://github.com/imadmedjerab/invoice-ocr-pipeline
+📁 **Projet :** https://github.com/imadmedjerab/imad.github/blob/main/EI.zip
 
 ---
 
