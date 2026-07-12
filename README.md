@@ -49,7 +49,6 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 **Objectif :** réduire le coût d’annotation en choisissant intelligemment les données à labelliser.  
 **Stratégies :** uncertainty sampling, entropy sampling, margin sampling.  
 📁 **Projet :** https://github.com/imadmedjerab/active-learning
-
 ---
 
 ## 🛠️ Compétences Techniques
