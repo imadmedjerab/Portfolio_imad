@@ -40,11 +40,18 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 ---
 
 ### 🔷 6. Machine Learning — Apprentissage Supervisé  
-**Objectif :** pipelines ML complets (prétraitement, modélisation, evaluation, tuning).  
-📁 **Projet :** https://github.com/imadmedjerab/machine-learning-project
+**Objectif :** Implémenter et comparer plusieurs modèles de régression.  
+**Techniques utilisées :**
+- Régression linéaire
+- Régression polynomiale
+- Ridge & Lasso
+- Validation croisée
+- Analyse du surapprentissage / sous-apprentissage
 
+**Metrics :** MSE, précision, complexité, temps d’entraînement
+
+[Télécharger PredictRegres.py.ipynb](https://github.com/imadmedjerab/imad.github/blob/main/PredictRegres.py.ipynb)
 ---
-
 ### 🔷 7. Active Learning  
 **Objectif :** réduire le coût d’annotation en choisissant intelligemment les données à labelliser.  
 **Stratégies :** uncertainty sampling, entropy sampling, margin sampling.  
