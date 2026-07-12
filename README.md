@@ -21,8 +21,8 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 ---
 
 ### 🔷 3. Data Mining — Règles d’Association  
-**Objectif :** extraction des fermetures, treillis, dépendances fonctionnelles, algorithmes Norris & Next-Closure.  
-📁 **Projet :** https://github.com/imadmedjerab/data-mining-association-rules
+**Objectif :** Prévision et analyse du CO2 avec méthodes de machine learning et séries temporelles (ARIMA, LSTM, SARIMA, Transformer).  
+📁 **Projet :** https://github.com/imadmedjerab/data-mining-co2
 
 ---
 
