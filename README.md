@@ -33,10 +33,10 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 
 ---
 
-### 🔷 5. Analyse de Réseaux Sociaux (NetworkX)  
-**Objectif :** détecter hubs, centralités, communautés, shortest paths dans un graphe social.  
-📁 **Projet :** https://github.com/imadmedjerab/network-analysis
+### 🔷 5. Prédiction de la Hauteur des Vagues (LSTM)
 
+**Objectif :** prédire la hauteur significative des vagues à l'aide de LSTM et Transfer Learning, pour l'alerte au risque de noyade, le dessalement de l'eau de mer et l'aquaculture.
+📁 **Projet :** https://github.com/imadmedjerab/wave-height-prediction-lstm
 ---
 
 ### 🔷 6. Machine Learning — Apprentissage Supervisé  
