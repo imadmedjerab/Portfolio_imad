@@ -7,14 +7,20 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 ---
 
 ## 🚀 Mes Projets
-### 🔷 1. Prédiction de la Hauteur des Vagues (LSTM)
+🔷 1. Sentiment Analysis — Réseaux Sociaux des Opérateurs Télécom (Algérie)
+Objectif : Analyse du sentiment client et de l'engagement social (posts & commentaires Facebook) pour Ooredoo, Djezzy et Mobilis à l'aide de Power Query et Power BI (nettoyage, indicateurs DAX, dashboards interactifs, word cloud).
+📁 Projet : https://github.com/imadmedjerab/Sentiment-Analysis-of-Algerian-Telecom-Operators
+
+----
+
+### 🔷 2. Prédiction de la Hauteur des Vagues (LSTM)
 
 **Objectif :** prédire la hauteur significative des vagues à l'aide de LSTM et Transfer Learning, pour l'alerte au risque de noyade, le dessalement de l'eau de mer et l'aquaculture.
 📁 **Projet :** https://github.com/imadmedjerab/wave-height-prediction
 
 ---
 
-### 🔷 2. Data Mining — Règles d’Association  
+### 🔷 3. Data Mining — Règles d’Association  
 **Objectif :** Prévision et analyse du CO2 avec méthodes de machine learning et séries temporelles (ARIMA, LSTM, SARIMA, Transformer).  
 📁 **Projet :** https://github.com/imadmedjerab/data-mining-co2
 
@@ -22,26 +28,26 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 ---
 
 
-### 🔷 3. Simulation d’une Ligne de Production (FlexSim)  
+### 🔷 4. Simulation d’une Ligne de Production (FlexSim)  
 **Objectif :** simuler une ligne avec 5 machines, opérateurs variables, zones de stockage, pannes et analyses TRS.  
 📁 **Projet :** https://github.com/imadmedjerab/simulation-production
 
 ---
 
-### 🔷 4. Pipeline OCR pour Factures (ZIP → PDF → Image → Texte → JSON)  
+### 🔷 5. Pipeline OCR pour Factures (ZIP → PDF → Image → Texte → JSON)  
 **Tech :** Tesseract, OpenCV, Spark NLP, Regex  
 **Étapes :** extraction ZIP, prétraitement, OCR, parsing, export CSV/JSON.  
 📁 **Projet :** https://github.com/imadmedjerab/imad.github/blob/main/EI.zip
 
 ---
 
-### 🔷 5. Data Warehouse & OLAP  
+### 🔷 6. Data Warehouse & OLAP  
 **Objectif :** modélisation multidimensionnelle, ETL, création de cubes OLAP, opérations (slice, dice, roll-up, drill-down).  
 📁 **Projet :** https://github.com/imadmedjerab/data-warehouse-olap
 
 ---
 
-### 🔷 6. Machine Learning — Apprentissage Supervisé  
+### 🔷 7. Machine Learning — Apprentissage Supervisé  
 **Objectif :** Implémenter et comparer plusieurs modèles de régression.  
 **Techniques utilisées :**
 - Régression linéaire
@@ -54,7 +60,7 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 
 [Télécharger PredictRegres.py.ipynb](https://github.com/imadmedjerab/imad.github/blob/main/PredictRegres.py.ipynb)
 ---
-### 🔷 7. Active Learning  
+### 🔷 8. Active Learning  
 **Dataset :** OIHACDB  
 **Tâches :**
 - Classification des caractères arabes isolés
@@ -65,7 +71,7 @@ Ce dépôt regroupe mes projets principaux, avec du code complet, de la document
 [Télécharger PROJET_MLA.ipynb](https://github.com/imadmedjerab/imad.github/blob/main/PROJET_MLA%20(1)%20(2).ipynb)
 
 ---
-### 🔷 8. Apprentissage Fédéré — Reconnaissance de Caractères Arabes Manuscrits
+### 🔷 9. Apprentissage Fédéré — Reconnaissance de Caractères Arabes Manuscrits
 
 **Dataset :** Caractères arabes manuscrits isolés (features numériques extraites et normalisées)
 **Tâches :**
